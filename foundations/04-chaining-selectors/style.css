@@ -1,0 +1,12 @@
+/*"avatar proportioned" src="./pexels-katho-mutodo-8434791.jpg" alt="">
+      <img class="avatar distorted"*/
+
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
+}
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
